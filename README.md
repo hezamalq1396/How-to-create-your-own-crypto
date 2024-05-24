@@ -45,7 +45,7 @@ With '_solana-token-creator_' you can create a crypto within 2 minutes with just
 
 1. Download this repo
    ```bash
-   git clone https://github.com/tm01013/how-to-make-your-own-crypto.git
+   git clone https://github.com/hezamalq1396/how-to-make-your-own-crypto.git
    cd how-to-make-your-own-crypto
    ```
 2. Open Terminal then enter the following command:
